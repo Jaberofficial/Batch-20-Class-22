@@ -1,0 +1,16 @@
+
+Function => কাজ, অনুষ্ঠান
+
+Function:
+Body 
+Parameter
+
+
+function functionName(){
+    //Statement...
+}
+
+
+function functionName(Parameter){
+    //Statement...
+}
