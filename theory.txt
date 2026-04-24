@@ -14,3 +14,8 @@ function functionName(){
 function functionName(Parameter){
     //Statement...
 }
+
+event => onclick, onchange, onblur, onkeyup, onkeydown, onsubmit, onmouseover, 
+onmouseout, onload
+
+DOM=> Document Object Model
